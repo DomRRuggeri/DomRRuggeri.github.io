@@ -26,18 +26,13 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 #PowerShell Syntax
 function Help {
   [CmdletBinding()]
-    Param
-    (
-        [Parameter(ValueFromPipelineByPropertyName=$true,
-                   Position=0)]
-        [Alias("DistinguishedName")]
-	    [string]
-        $Domain,
+    Param(
+      [Parameter(ValueFromPipelineByPropertyName=$true,Position=0)]
+      [Alias("DistinguishedName")]
+	    [string]$Domain,
 
-        [Parameter(Mandatory=$false,
-                       Position=1)]
-        [string]
-        $RootOU
+      [Parameter(Mandatory=$false,Position=1)]
+        [string]$RootOU
     )
   $source = Get-ChildItem -Path "C:\Users"
 }
