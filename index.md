@@ -25,7 +25,7 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 ## projects
 
 ### service desk toolkit
-A PowerShell-driven GUI Application for day-to-day tasks of 
+>A PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
 
 ### education
 
