@@ -35,7 +35,7 @@ function Help {
 
 | Name      |   Diploma     |   Year   |
 |:----------|:--------------|:---------|
-| WCTC      | Assoc. Degree | 2016     |
+| Waukesha County Technical College | Associates Degree - IT Network Specialist | 2016     |
 | MFHS      | High School   | 2011     |
 
 
