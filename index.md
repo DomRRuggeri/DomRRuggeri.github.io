@@ -16,10 +16,13 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 ### skills / technologies
 
-| PowerShell | Scripting & Automation | Module Development | REST API Integration |
+| PowerShell | Scripting & Automation | Module Development | REST API Integration | Toolmaking |
 | GUI Applications | Windows Server | Active Directory | Office 365 | VMware |
 | Hyper-V | SCCM | DSC | Group Policy | Azure |
 
+* * *
+
+### projects
 
 
 ### education
