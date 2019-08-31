@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-## Information
-Name: Dom Ruggeri
+## whoami
+My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell development, scripting, and automation. I work regularly with Windows Server, VMware, Hyper-V, Office 365, Azure, and Active Directory. I have a background in networking, and server infrastructure.
 
+### 
 Check out my [Upwork](https://www.upwork.com/o/profiles/users/_~01b0dddb831cc7bb38/) profile, or visit [my website](https://www.domruggeri.com)
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
