@@ -38,7 +38,5 @@ function Help {
 | Waukesha County Technical College | Associates Degree - IT Network Specialist | 2016 |
 | Menomonee Falls High School | High School | 2011 |
 
-
-### There's a horizontal rule below this.
-
 * * *
+> Dom Ruggeri \| DomRRuggeri@gmail.com \| Menomonee Falls, WI
