@@ -35,8 +35,8 @@ function Help {
 
 | Name      |   Diploma     |   Year   |
 |:----------|:--------------|:---------|
-| Waukesha County Technical College | Associates Degree - IT Network Specialist | 2016     |
-| MFHS      | High School   | 2011     |
+| Waukesha County Technical College | Associates Degree - IT Network Specialist | 2016 |
+| Menomonee Falls High School | High School | 2011 |
 
 
 ### There's a horizontal rule below this.
