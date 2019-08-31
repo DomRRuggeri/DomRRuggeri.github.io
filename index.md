@@ -1,15 +1,13 @@
 ---
 layout: default
 ---
-## whoami
+### whoami
 My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell development, scripting, and automation. I work regularly with Windows Server, VMware, Hyper-V, Office 365, Azure, and Active Directory, with a solid foundation in networking, and server infrastructure.
 
 ### Links
-*    I freelance as a PowerShell developer, you can visit my [Upwork profile here.](https://www.upwork.com/o/profiles/users/_~01b0dddb831cc7bb38/)
-*    I run a [PowerShell blog](https://www.domruggeri.com) with tools and tutorials.
-*    You can find me on [LinkedIn](https:\linkedin.com/in/domruggeri) as well.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+*    [Upwork](https://www.upwork.com/o/profiles/users/_~01b0dddb831cc7bb38/) - I freelance as a PowerShell developer, you can check out my profile here. 
+*    [PowerShell Tools](https://www.domruggeri.com) - I run a PowerShell blog, writing tools and tutorials.
+*    [LinkedIn](https:\linkedin.com/in/domruggeri) - Feel free to add me on LinkedIn.
 
 * * *
 
