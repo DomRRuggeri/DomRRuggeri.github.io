@@ -41,8 +41,14 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 * * *
 
 ## professional experience
-### Ellsworth Adhesives \| Germantown, WI
-### Systems Administrator
+```Powershell
+$Company = [pscustomobject]@{
+  Company     =  "Ellsworth Adhesives"
+  Location    =  "Germantown, WI"
+  JobTitle    =  "Systems Administrator"
+}
+
+Systems Administrator
 > May, 2018 - Present
 Ellsworth description
 
@@ -55,7 +61,7 @@ Upwork Description
 ### IT Systems Specialist
 >February 2017 - May, 2018
 Systems Description
-
+```
 
 
 
