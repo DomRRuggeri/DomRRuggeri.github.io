@@ -4,7 +4,7 @@ layout: default
 ### whoami
 My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell development, scripting, and automation. I work regularly with Windows Server, VMware, Hyper-V, Office 365, Azure, and Active Directory, with a solid foundation in networking and server infrastructure.
 
-> Dom Ruggeri | DomRRuggeri@gmail.com | Menomonee Falls, WI
+> Dom Ruggeri \| DomRRuggeri@gmail.com \| Menomonee Falls, WI
 
 ### Links
 *    [Upwork](https://www.upwork.com/o/profiles/users/_~01b0dddb831cc7bb38/) - I freelance as a PowerShell developer, you can check out my profile here.
