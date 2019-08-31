@@ -7,6 +7,8 @@ layout: default
 
 My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell development, scripting, and automation. I work regularly with Windows Server, VMware, Hyper-V, Office 365, Azure, and Active Directory. I have a solid foundation in networking and server infrastructure.
 
+* * *
+
 ## links
 *    [Upwork](https://www.upwork.com/o/profiles/users/_~01b0dddb831cc7bb38/) - I freelance as a PowerShell developer, you can check out my profile here.
 *    [LinkedIn](https://linkedin.com/in/domruggeri) - Feel free to reach out on LinkedIn.
@@ -24,11 +26,38 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 ## projects
 
-### service desk toolkit
+### Service Desk Toolkit
 >A PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
 
 ### OpsCommands PowerShell Module
 >A PowerShell Module used by Infrastructure and Operations for gathering information, and environment management quickly. Tools include AD user unlocks, password resets, PC discovery, Microsoft Monitoring Agent set up, Bulk O365 group management,VM snapshot scheduling, Exchange mailbox permissions, and more.
+
+### FSLogixMigration Module
+>Enterprise-level PowerShell module used by Microsoft for converting Roaming Profiles, and User Profile Disks to FSLogix Profile Containers. This module handled the discovery, transfer, verification, and configuration for Roaming and UPD profiles to an FSLogix environment.
+
+### AD User Creation Tool
+>A PowerShell-driven GUI Application for specialized user creation in a Hybrid AD environment. The tool was custom made to accommodate an existing onboarding proccess. An API integration was used to gather onboarding user information and needed apps, functions for copy groups of users, assigning O365 licenses, and automatic ticket creation for tasks handled by other teams.
+
+* * *
+
+## professional experience
+### Ellsworth Adhesives \| Germantown, WI
+### Systems Administrator
+> May, 2018 - Present
+Ellsworth description
+
+### Independent Contractor - Upwork \| Menomonee Falls, WI
+### PowerShell Developer \| Systems Administrator
+>March, 2019 - Present
+Upwork Description
+
+### Systems Incorporated \| Germantown, WI
+### IT Systems Specialist
+>February 2017 - May, 2018
+Systems Description
+
+
+
 
 * * *
 
