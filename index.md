@@ -47,7 +47,8 @@ $Company = [pscustomobject]@{
   Location    =  "Germantown, WI"
   JobTitle    =  "Systems Administrator"
 }
-
+$duration = New-Timespan -Start (05/21/2019) -End (Get-Date)
+<#
 Systems Administrator
 > May, 2018 - Present
 Ellsworth description
@@ -60,7 +61,8 @@ Upwork Description
 ### Systems Incorporated \| Germantown, WI
 ### IT Systems Specialist
 >February 2017 - May, 2018
-Systems Description
+Systems Description#>
+
 ```
 
 
