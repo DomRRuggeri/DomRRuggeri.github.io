@@ -16,12 +16,11 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 ### skills / technologies
 
-##### this too
 
 
 ### education
 
-| Name      |   Diploma     |   Year   |
+| Name      |   Diploma     |   Year Completed   |
 |:----------|:--------------|:---------|
 | Waukesha County Technical College | Associates Degree - IT Network Specialist | 2016 |
 | Menomonee Falls High School | High School | 2011 |
