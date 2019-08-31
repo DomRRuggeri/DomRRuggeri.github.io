@@ -4,7 +4,7 @@ layout: default
 ## Information
 Name: Dom Ruggeri
 
-Check out my [Upwork](./another-page.html) profile, or visit [my website](www.domruggeri.com)
+Check out my [Upwork](https://www.upwork.com/o/profiles/users/_~01b0dddb831cc7bb38/) profile, or visit [my website](https://www.domruggeri.com)
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
