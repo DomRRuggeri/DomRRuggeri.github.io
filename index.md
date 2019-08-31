@@ -43,7 +43,6 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 ## professional experience
 
 ```powershell
-
 $Company = [pscustomobject]@{
   Company     =  "Ellsworth Adhesives"
   Location    =  "Germantown, WI"
