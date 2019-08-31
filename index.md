@@ -14,9 +14,10 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 * * *
 
-### Header 3
+### skills / technologies
 
-```
+##### this too
+
 
 ### education
 
