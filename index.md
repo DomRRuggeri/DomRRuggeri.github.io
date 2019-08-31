@@ -27,7 +27,12 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 ### service desk toolkit
 >A PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
 
-### education
+### OpsCommands PowerShell Module
+>A PowerShell Module used by Infrastructure and Operations for gathering information, and environment management quickly. Tools include AD user unlocks, password resets, PC discovery, Microsoft Monitoring Agent set up, Bulk O365 group management,VM snapshot scheduling, Exchange mailbox permissions, and more.
+
+* * *
+
+## education
 
 | Name      |   Diploma     |   Year Completed   |
 |:----------|:--------------|:---------|
