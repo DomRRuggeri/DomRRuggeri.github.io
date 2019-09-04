@@ -43,22 +43,19 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 ## professional experience
 
-### Ellsworth Adhesives \| Germantown, WI<br><b><font color="#a873b6">Systems Administrator</font> | <font color="#64618D">May, 2018 - Present</font></b>
+### Ellsworth Adhesives \| Germantown, WI<br><b><font color="#a873b6">Systems Administrator</font><font color="#64618D"> | May, 2018 - Present</font></b>
 
 Ellsworth description
 
-### Independent Contractor - Upwork \| Menomonee Falls, WI<br><b><font color="#a873b6">PowerShell Developer | Systems Administrator</font><br><font color="#64618D">March, 2019 - Present</font></b>
+### Independent Contractor - Upwork \| Menomonee Falls, WI<br><b><font color="#a873b6">PowerShell Developer | Systems Administrator</font><font color="#64618D"> | March, 2019 - Present</font></b>
 
 Upwork Description
 
-### Systems Incorporated \| Germantown, WI<br><b><font color="#a873b6">IT Systems Specialist</font><br><font color="#64618D">February 2017 - May, 2018</font></b>
+### Systems Incorporated \| Germantown, WI<br><b><font color="#a873b6">IT Systems Specialist</font><font color="#64618D"> | February 2017 - May, 2018</font></b>
 
 Systems Description
 
-TAKKT America Holding, Milwaukee, WI
-System Administrator May 2015 – Feb 2016
-Junior System Administrator May 2013 – May 2015
-IT Service Desk April 2013 – May 2013
+### TAKKT America Holding, Milwaukee, WI<br><b><font color="#a873b6">System Administrator</font><font color="#64618D"> | May 2015 – Feb 2016</font></b></br><b><font color="#a873b6">Junior System Administrator</font><font color="#64618D"> | May 2013 – May 2015</font></b></br><b><font color="#a873b6">IT Service Desk</font><font color="#64618D"> |  March 2013 – May 2013</font></b></br>
 
 Responsibilities included management of Microsoft and Linux servers and applications, IT
 operations, desktop support, VPN user management, network administration tasks, and server
