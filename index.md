@@ -43,19 +43,19 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 ## professional experience
 
-### Ellsworth Adhesives \| Germantown, WI<br><b><font color="#a873b6">Systems Administrator</font><font color="#64618D"> | May, 2018 - Present</font></b>
+### Ellsworth Adhesives \| Germantown, WI<br><b><font color="#a873b6">Systems Administrator</font><font color="#64618D"></b> | May, 2018 - Present</font>
 
 Ellsworth description
 
-### Independent Contractor - Upwork \| Menomonee Falls, WI<br><b><font color="#a873b6">PowerShell Developer | Systems Administrator</font><font color="#64618D"> | March, 2019 - Present</font></b>
+### Independent Contractor - Upwork \| Menomonee Falls, WI<br><b><font color="#a873b6">PowerShell Developer | Systems Administrator</font><font color="#64618D"></b> | March, 2019 - Present</font>
 
 Upwork Description
 
-### Systems Incorporated \| Germantown, WI<br><b><font color="#a873b6">IT Systems Specialist</font><font color="#64618D"> | February 2017 - May, 2018</font></b>
+### Systems Incorporated \| Germantown, WI<br><b><font color="#a873b6">IT Systems Specialist</font><font color="#64618D"></b> | February 2017 - May, 2018</font>
 
 Systems Description
 
-### TAKKT America Holding, Milwaukee, WI<br><b><font color="#a873b6">System Administrator</font><font color="#64618D"> | May 2015 – Feb 2016</font></b><br>
+### TAKKT America Holding, Milwaukee, WI<br><b><font color="#a873b6">System Administrator</font><font color="#64618D"></b> | May 2015 – Feb 2016</font><br>
 Responsibilities included management of Microsoft and Linux servers and applications, IT
 operations, desktop support, VPN user management, network administration tasks, and server
 
