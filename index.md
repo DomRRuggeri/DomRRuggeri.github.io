@@ -24,9 +24,18 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 * * *
 
+<details><summary>stuff with *mark* **down**</summary><p>
+
+## _formatted_ **heading** with [a](link)
+
+---
+{{standard 3-backtick code block omitted from here due to escaping issues}}
+---
+
+Collapsible until here.
+</p><
+
 ## projects
-<details>
-  <summary>Details</summary>
 
 ### Service Desk Toolkit
 >BA PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
@@ -39,8 +48,6 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 ### AD User Creation Tool
 >A PowerShell-driven GUI Application for specialized user creation in a Hybrid AD environment. The tool was custom made to accommodate an existing onboarding proccess. An API integration was used to gather onboarding user information and needed apps, functions for copy groups of users, assigning O365 licenses, and automatic ticket creation for tasks handled by other teams.
-
-</details>
 
 * * *
 
