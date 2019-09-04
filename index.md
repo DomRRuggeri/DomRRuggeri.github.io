@@ -10,6 +10,7 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 * * *
 
 ## links
+
 [> Upwork](https://www.upwork.com/o/profiles/users/_~01b0dddb831cc7bb38/) - I freelance as a PowerShell developer, you can check out my profile here. <br>
 [> LinkedIn](https://linkedin.com/in/domruggeri) - Feel free to reach out on LinkedIn. <br>
 [> PowerShell Tools](https://www.domruggeri.com) - I run a PowerShell blog, writing tools and tutorials. <br>
