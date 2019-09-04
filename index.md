@@ -55,7 +55,7 @@ Upwork Description
 
 Systems Description
 
-### TAKKT America Holding, Milwaukee, WI<br><b><font color="#a873b6">System Administrator</font><font color="#64618D"></b> | May 2015 – Feb 2016</font><br>
+### TAKKT America Holding, Milwaukee, WI<br><b><font color="#a873b6">System Administrator</b></font><font color="#64618D"> | May 2015 – Feb 2016</font>
 Responsibilities included management of Microsoft and Linux servers and applications, IT
 operations, desktop support, VPN user management, network administration tasks, and server
 
@@ -69,7 +69,7 @@ team members to effectively meet advanced email needs.
 Promptly handled and mitigated unexpected email, VPN, and application issues and
 outages.
 
-<font color="#a873b6"><b>Junior System Administrator</b></font><font color="#64618D"> | May 2013 – May 2015</font><br>
+<font color="#a873b6"><b>Junior System Administrator</b></font><font color="#64618D"> | May 2013 – May 2015</font>
 Responsibilities included end-user support, hardware fixes, software installation, and PC
 deployment. Managed users and security, desktop support, virus and malware removal, asset
 tracking, user training, and documentation.
@@ -82,7 +82,7 @@ Scheduled with management for training of 200+ users on Windows 7, while mitigat
 impact on the business.
 Performed extensive software compatibility checks between Windows XP and 7.
 
-<font color="#a873b6"><b>IT Service Desk</b></font><font color="#64618D"> |  March 2013 – May 2013</font><br>
+<font color="#a873b6"><b>IT Service Desk</b></font><font color="#64618D"> |  March 2013 – May 2013</font>
 Responsibilities included desktop support, software configuration and deployment, and
 maintaining printing environment. Provided and assisted with shared file services for end-users.
 Key Achievements
