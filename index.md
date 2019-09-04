@@ -51,9 +51,7 @@ Ellsworth description
 
 Upwork Description
 
-Systems Incorporated \| Germantown, WI
-IT Systems Specialist
-February 2017 - May, 2018
+### Systems Incorporated \| Germantown, WI<br><font color="#a873b6"><b>IT Systems Specialist</font><br><font color="#64618D">February 2017 - May, 2018</font></b>
 
 Systems Description
 
