@@ -33,7 +33,7 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 ---
 
 Collapsible until here.
-</p><
+</p></details>
 
 ## projects
 
