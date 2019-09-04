@@ -30,7 +30,8 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 <details>
   <summary>Details</summary>
 
-  > TvA PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
+  >BA PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
+  
 </details>
 
 
