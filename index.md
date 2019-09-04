@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
->       Dom Ruggeri \| DomRRuggeri@gmail.com \| Menomonee Falls, WI
+> Dom Ruggeri \| DomRRuggeri@gmail.com \| Menomonee Falls, WI
 
 ## whoami
 
