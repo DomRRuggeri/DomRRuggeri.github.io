@@ -43,13 +43,11 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 ## professional experience
 
-### <b>Ellsworth Adhesives \| Germantown, WI<br><font color="#a873b6">Systems Administrator</font><br><font color="#64618D">May, 2018 - Present</font></b>
+### Ellsworth Adhesives \| Germantown, WI<br><font color="#a873b6"><b>Systems Administrator</font><br><font color="#64618D">May, 2018 - Present</font></b>
 
 Ellsworth description
 
-Independent Contractor - Upwork \| Menomonee Falls, WI
-PowerShell Developer \| Systems Administrator
-March, 2019 - Present
+### Independent Contractor - Upwork \| Menomonee Falls, WI<br><font color="#a873b6"><b>PowerShell Developer \| Systems Administrator</font><br><font color="#64618D">March, 2019 - Present</font></b>
 
 Upwork Description
 
