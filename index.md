@@ -75,7 +75,7 @@ tracking, user training, and documentation.
 Key Achievements
 Planned, and implemented a company-wide desktop upgrade to Windows 7 for all
 company sites in North America.
-* Created, tested, streamlined, and deployed OS images for ease of desktop
+Created, tested, streamlined, and deployed OS images for ease of desktop
 management, resulting in quick turn-around time for desktop repairs.
 Scheduled with management for training of 200+ users on Windows 7, while mitigating
 impact on the business.
