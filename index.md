@@ -23,37 +23,46 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 | Hyper-V | SCCM | DSC | Group Policy | Azure |
 
 * * *
+
+<div class="collapsible">
+	<h4>Show/Hide Content</h4>
+	<p>This is the collapsible content. Currently, it's a <code>p</code> element, but it could be anything really, like a <code>div</code> containing other <code>p</code>'s for example.</p>
+</div>
+
 <style>
-.content {
-  padding: 0 18px;
-  background-color: white;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
+/* some simple demo styles for all collapsibles on this page */
+.collapsible-header,
+.collapsible-content {
+	border: 1px solid #ccc;
+	padding: .7em 35px;
+	font-size: 1em;
+	margin-top: 0;
+	background-color: #fff;
+}
+.collapsible-content {
+	margin-top: 0;
+	border-top-width: 0;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+}
+.collapsible-header {
+	margin-bottom: 0;
+	cursor: pointer;
+	background: url(img/tri-down.png) 10px 50% no-repeat;
+}
+.collapsible-header:focus {
+	background-color: #eee;
+}
+.collapsible-collapsed .collapsible-header {
+	background-image: url(img/tri-right.png);
 }
 </style>
-
 <script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    }
-  });
-}
+$( function(){
+	// initialize collapsibles:
+	$( document ).trigger( "enhance" );
+});
 </script>
-<button class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum...</p>
-  >Quote?
-</div>
 
 ## projects
 
