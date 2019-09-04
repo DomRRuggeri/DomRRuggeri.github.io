@@ -43,7 +43,7 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 ## professional experience
 
-### Ellsworth Adhesives \| Germantown, WI<br><b><font color="#a873b6">Systems Administrator</font><br><font color="#64618D">May, 2018 - Present</font></b>
+### Ellsworth Adhesives \| Germantown, WI<br><b><font color="#a873b6">Systems Administrator</font><font color="#64618D"> | May, 2018 - Present</font></b>
 
 Ellsworth description
 
@@ -54,6 +54,45 @@ Upwork Description
 ### Systems Incorporated \| Germantown, WI<br><b><font color="#a873b6">IT Systems Specialist</font><br><font color="#64618D">February 2017 - May, 2018</font></b>
 
 Systems Description
+
+TAKKT America Holding, Milwaukee, WI
+System Administrator May 2015 – Feb 2016
+Junior System Administrator May 2013 – May 2015
+IT Service Desk April 2013 – May 2013
+
+Responsibilities included management of Microsoft and Linux servers and applications, IT
+operations, desktop support, VPN user management, network administration tasks, and server
+
+administration. Administrated and supported a dynamic Virtual Desktop Infrastructure.
+Effectively planned projects, and implemented desktop support and IT operation advancements.
+Key Achievements
+Completed a company-wide domain migration, allowing a seamless transition for users
+while meeting deadlines and minimizing business impact.
+Composed PowerShell scripts to streamline Microsoft Exchange tasks which enabled all
+team members to effectively meet advanced email needs.
+Promptly handled and mitigated unexpected email, VPN, and application issues and
+outages.
+
+Responsibilities included end-user support, hardware fixes, software installation, and PC
+deployment. Managed users and security, desktop support, virus and malware removal, asset
+tracking, user training, and documentation.
+Key Achievements
+Planned, and implemented a company-wide desktop upgrade to Windows 7 for all
+company sites in North America.
+Created, tested, streamlined, and deployed OS images for ease of desktop
+management, resulting in quick turn-around time for desktop repairs.
+Scheduled with management for training of 200+ users on Windows 7, while mitigating
+impact on the business.
+Performed extensive software compatibility checks between Windows XP and 7.
+
+Responsibilities included desktop support, software configuration and deployment, and
+maintaining printing environment. Provided and assisted with shared file services for end-users.
+Key Achievements
+Established relations with various print vendors to implement a replacement of in-place
+printing environment, cutting annual cost on toner, hardware, and maintenance.
+Evaluated, and presented available options for a print environment refresh to decision-
+making management.
+Created software packages and configurations for remote deployment.
 
 * * *
 
