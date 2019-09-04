@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-## whoami
+>       Dom Ruggeri \| DomRRuggeri@gmail.com \| Menomonee Falls, WI
 
-> Dom Ruggeri \| DomRRuggeri@gmail.com \| Menomonee Falls, WI
+## whoami
 
 My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell development, scripting, and automation. I work regularly with Windows Server, VMware, Hyper-V, Office 365, Azure, and Active Directory. I have a solid foundation in networking and server infrastructure.
 
@@ -34,7 +34,7 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 >A PowerShell Module used by Infrastructure and Operations for gathering information, and environment management quickly. Tools include AD user unlocks, password resets, PC discovery, Microsoft Monitoring Agent set up, Bulk O365 group management,VM snapshot scheduling, Exchange mailbox permissions, and more.
 
 ### FSLogixMigration Module
->Enterprise-level PowerShell module used by Microsoft for converting Roaming Profiles, and User Profile Disks to FSLogix Profile Containers. This module handled the discovery, transfer, verification, and configuration for Roaming and UPD profiles to an FSLogix environment.
+>Enterprise-level PowerShell module used by Microsoft for converting Roaming Profiles, and User Profile Disks to FSLogix Profile Containers. This module handled the discovery, transfer, verification, and configuration for Roaming and <font color="red">This is some text!</font> UPD profiles to an FSLogix environment.
 
 ### AD User Creation Tool
 >A PowerShell-driven GUI Application for specialized user creation in a Hybrid AD environment. The tool was custom made to accommodate an existing onboarding proccess. An API integration was used to gather onboarding user information and needed apps, functions for copy groups of users, assigning O365 licenses, and automatic ticket creation for tasks handled by other teams.
