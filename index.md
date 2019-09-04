@@ -24,16 +24,11 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 * * *
 
-<details><summary>stuff with *mark* **down**</summary><p>
-
-## _formatted_ **heading** with [a](link)
-
----
-{{standard 3-backtick code block omitted from here due to escaping issues}}
----
-
-Collapsible until here.
-</p></details>
+<button class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+  >Quote?
+</div>
 
 ## projects
 
