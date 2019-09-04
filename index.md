@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+<title>HTML Reference</title>
 
-## whoami <font size="4" color="#666"><sp><sp><sp><sp><sp><sp><sp>Dom Ruggeri | DomRRuggeri@gmail.com | Menomonee Falls, WI</font>
+## whoami <font size="4" color="#666">Dom Ruggeri | DomRRuggeri@gmail.com | Menomonee Falls, WI</font>
 
 My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell development, scripting, and automation. I work regularly with Windows Server, VMware, Hyper-V, Office 365, Azure, and Active Directory. I have a solid foundation in networking and server infrastructure.
 
