@@ -34,7 +34,7 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 >A PowerShell Module used by Infrastructure and Operations for gathering information, and environment management quickly. Tools include AD user unlocks, password resets, PC discovery, Microsoft Monitoring Agent set up, Bulk O365 group management,VM snapshot scheduling, Exchange mailbox permissions, and more.
 
 ### FSLogixMigration Module
->Enterprise-level PowerShell module used by Microsoft for converting Roaming Profiles, and User Profile Disks to FSLogix Profile Containers. This module handled the discovery, transfer, verification, and configuration for Roaming and <font color="red">This is some text!</font> UPD profiles to an FSLogix environment.
+>Enterprise-level PowerShell module used by Microsoft for converting Roaming Profiles, and User Profile Disks to FSLogix Profile Containers. This module handled the discovery, transfer, verification, and configuration for Roaming and UPD profiles to an FSLogix environment.
 
 ### AD User Creation Tool
 >A PowerShell-driven GUI Application for specialized user creation in a Hybrid AD environment. The tool was custom made to accommodate an existing onboarding proccess. An API integration was used to gather onboarding user information and needed apps, functions for copy groups of users, assigning O365 licenses, and automatic ticket creation for tasks handled by other teams.
@@ -43,31 +43,23 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 ## professional experience
 
-```powershell
-$Company = [pscustomobject]@{
-  Company     =  "Ellsworth Adhesives"
-  Location    =  "Germantown, WI"
-  JobTitle    =  "Systems Administrator"
-}
-$duration = New-Timespan -Start (05/21/2019) -End (Get-Date)
-<#
-Systems Administrator
-> May, 2018 - Present
+### Ellsworth Adhesives \| Germantown, WI
+### Systems Administrator<font color="red">This is some text!</font>
+### May, 2018 - Present
+
 Ellsworth description
 
-### Independent Contractor - Upwork \| Menomonee Falls, WI
-### PowerShell Developer \| Systems Administrator
->March, 2019 - Present
+Independent Contractor - Upwork \| Menomonee Falls, WI
+PowerShell Developer \| Systems Administrator
+March, 2019 - Present
+
 Upwork Description
 
-### Systems Incorporated \| Germantown, WI
-### IT Systems Specialist
->February 2017 - May, 2018
-Systems Description#>
+Systems Incorporated \| Germantown, WI
+IT Systems Specialist
+February 2017 - May, 2018
 
-```
-
-
+Systems Description
 
 * * *
 
