@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<title>HTML Reference</title>
 
 ## whoami <font size="3" color="#666">| Dom Ruggeri | DomRRuggeri@gmail.com | Menomonee Falls, WI</font>
 
