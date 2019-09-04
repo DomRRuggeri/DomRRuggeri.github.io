@@ -43,9 +43,8 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 ## professional experience
 
-### Ellsworth Adhesives \| Germantown, WI<br>
-<font color="#64c5f1">Systems Administrator</font><br>
-May, 2018 - Present
+### Ellsworth Adhesives \| Germantown, WI<br><font color="#a873b6">Systems Administrator</font><br>
+<font color="rgb(100, 97, 141)">May, 2018 - Present</font>
 
 Ellsworth description
 
