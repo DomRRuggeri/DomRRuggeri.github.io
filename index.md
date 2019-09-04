@@ -24,50 +24,10 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 * * *
 
-<div class="collapsible">
-	<h4>Show/Hide Content</h4>
-	<p>This is the collapsible content. Currently, it's a <code>p</code> element, but it could be anything really, like a <code>div</code> containing other <code>p</code>'s for example.</p>
-</div>
-
-<style>
-/* some simple demo styles for all collapsibles on this page */
-.collapsible-header,
-.collapsible-content {
-	border: 1px solid #ccc;
-	padding: .7em 35px;
-	font-size: 1em;
-	margin-top: 0;
-	background-color: #fff;
-}
-.collapsible-content {
-	margin-top: 0;
-	border-top-width: 0;
-	padding-top: 1.5em;
-	padding-bottom: 1.5em;
-}
-.collapsible-header {
-	margin-bottom: 0;
-	cursor: pointer;
-	background: url(img/tri-down.png) 10px 50% no-repeat;
-}
-.collapsible-header:focus {
-	background-color: #eee;
-}
-.collapsible-collapsed .collapsible-header {
-	background-image: url(img/tri-right.png);
-}
-</style>
-<script>
-$( function(){
-	// initialize collapsibles:
-	$( document ).trigger( "enhance" );
-});
-</script>
-
 ## projects
 
 ### Service Desk Toolkit
->BA PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
+>A PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
 
 ### OpsCommands PowerShell Module
 >A PowerShell Module used by Infrastructure and Operations for gathering information, and environment management quickly. Tools include AD user unlocks, password resets, PC discovery, Microsoft Monitoring Agent set up, Bulk O365 group management,VM snapshot scheduling, Exchange mailbox permissions, and more.
