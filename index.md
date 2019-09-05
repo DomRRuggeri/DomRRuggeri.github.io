@@ -57,7 +57,6 @@ Systems Description
 
 ### TAKKT America Holding, Milwaukee, WI<br><font color="#a873b6"><b>System Administrator</b></font><font color="#64618D"> | May 2015 – Feb 2016</font>
 
-#### Responsibilities 
 Management of Microsoft and Linux servers and applications, IT
 operations, desktop support, VPN user management, network administration tasks, and server
 administration. Administrated and supported a dynamic Virtual Desktop Infrastructure.
@@ -73,8 +72,6 @@ outages.
 
 <font color="#a873b6"><b>Junior System Administrator</b></font><font color="#64618D"> | May 2013 – May 2015</font>
 
-
-#### Responsibilities 
 End-user support, hardware fixes, software installation, and PC
 deployment. Managed users and security, desktop support, virus and malware removal, asset
 tracking, user training, and documentation.
@@ -90,8 +87,6 @@ impact on the business.
 
 <font color="#a873b6"><b>IT Service Desk</b></font><font color="#64618D"> |  March 2013 – May 2013</font>
 
-
-#### Responsibilities
 Desktop support, software configuration and deployment, and
 maintaining printing environment. Provided and assisted with shared file services for end-users.
 
