@@ -8,11 +8,12 @@ layout: default
 My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell development, scripting, and automation. I work regularly with Windows Server, VMware, Hyper-V, Office 365, Azure, and Active Directory. I have a solid foundation in networking and server infrastructure.
 
 I've worked as an IT professional for 7+ years, and have had an interest in technology since childhood. I enjoy automating complex workflows and processes, and strive to perform as few manual tasks as possible. I help other IT professionals and organizations identify areas for automation in their daily work, and realize those solutions. 
+
 * * *
 
 ## links
 
-[> Upwork](https://www.upwork.com/o/profiles/users/_~01b0dddb831cc7bb38/) - I freelance as a PowerShell developer, you can check out my profile here. <br>
+*    [Upwork](https://www.upwork.com/o/profiles/users/_~01b0dddb831cc7bb38/) - I freelance as a PowerShell developer, you can check out my profile here. <br>
 [> LinkedIn](https://linkedin.com/in/domruggeri) - Feel free to reach out on LinkedIn. <br>
 [> PowerShell Tools](https://www.domruggeri.com) - I run a PowerShell blog, writing tools and tutorials. <br>
 
