@@ -73,13 +73,13 @@ Responsibilities included end-user support, hardware fixes, software installatio
 deployment. Managed users and security, desktop support, virus and malware removal, asset
 tracking, user training, and documentation.
 Key Achievements
-Planned, and implemented a company-wide desktop upgrade to Windows 7 for all
+*    Planned, and implemented a company-wide desktop upgrade to Windows 7 for all
 company sites in North America.
-Created, tested, streamlined, and deployed OS images for ease of desktop
+*    Created, tested, streamlined, and deployed OS images for ease of desktop
 management, resulting in quick turn-around time for desktop repairs.
-Scheduled with management for training of 200+ users on Windows 7, while mitigating
+*    Scheduled with management for training of 200+ users on Windows 7, while mitigating
 impact on the business.
-Performed extensive software compatibility checks between Windows XP and 7.
+*    Performed extensive software compatibility checks between Windows XP and 7.
 
 <font color="#a873b6"><b>IT Service Desk</b></font><font color="#64618D"> |  March 2013 – May 2013</font>
  Responsibilities included desktop support, software configuration and deployment, and
