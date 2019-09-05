@@ -72,7 +72,8 @@ outages.
 Responsibilities included end-user support, hardware fixes, software installation, and PC
 deployment. Managed users and security, desktop support, virus and malware removal, asset
 tracking, user training, and documentation.
-Key Achievements
+
+#### Key Achievements
 *    Planned, and implemented a company-wide desktop upgrade to Windows 7 for all
 company sites in North America.
 *    Created, tested, streamlined, and deployed OS images for ease of desktop
