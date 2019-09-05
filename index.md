@@ -11,9 +11,9 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 ## links
 
-[> Upwork](https://www.upwork.com/o/profiles/users/_~01b0dddb831cc7bb38/) - I freelance as a PowerShell developer, you can check out my profile here. <br>
-[> LinkedIn](https://linkedin.com/in/domruggeri) - Feel free to reach out on LinkedIn. <br>
-[> PowerShell Tools](https://www.domruggeri.com) - I run a PowerShell blog, writing tools and tutorials. <br>
+[> Upwork](https://www.upwork.com/o/profiles/users/_~01b0dddb831cc7bb38/).......................I freelance as a PowerShell developer, you can check out my profile here. <br>
+[> LinkedIn](https://linkedin.com/in/domruggeri)......................Feel free to reach out on LinkedIn. <br>
+[> PowerShell Tools](https://www.domruggeri.com).....I run a PowerShell blog, writing tools and tutorials. <br>
 
 * * *
 
@@ -56,7 +56,7 @@ Upwork Description
 Systems Description
 
 ### TAKKT America Holding, Milwaukee, WI<br><font color="#a873b6"><b>System Administrator</b></font><font color="#64618D"> | May 2015 – Feb 2016</font>
-  Responsibilities included management of Microsoft and Linux servers and applications, IT
+Responsibilities included management of Microsoft and Linux servers and applications, IT
 operations, desktop support, VPN user management, network administration tasks, and server
 administration. Administrated and supported a dynamic Virtual Desktop Infrastructure.
 Effectively planned projects, and implemented desktop support and IT operation advancements.
@@ -69,7 +69,7 @@ Promptly handled and mitigated unexpected email, VPN, and application issues and
 outages.
 
 <font color="#a873b6"><b>Junior System Administrator</b></font><font color="#64618D"> | May 2013 – May 2015</font>
-  Responsibilities included end-user support, hardware fixes, software installation, and PC
+Responsibilities included end-user support, hardware fixes, software installation, and PC
 deployment. Managed users and security, desktop support, virus and malware removal, asset
 tracking, user training, and documentation.
 Key Achievements
@@ -82,7 +82,7 @@ impact on the business.
 Performed extensive software compatibility checks between Windows XP and 7.
 
 <font color="#a873b6"><b>IT Service Desk</b></font><font color="#64618D"> |  March 2013 – May 2013</font>
-  Responsibilities included desktop support, software configuration and deployment, and
+ Responsibilities included desktop support, software configuration and deployment, and
 maintaining printing environment. Provided and assisted with shared file services for end-users.
 Key Achievements
 Established relations with various print vendors to implement a replacement of in-place
