@@ -7,6 +7,7 @@ layout: default
 
 My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell development, scripting, and automation. I work regularly with Windows Server, VMware, Hyper-V, Office 365, Azure, and Active Directory. I have a solid foundation in networking and server infrastructure.
 
+I've worked as an IT professional for 7+ years, and have had an interest in technology since childhood. I enjoy automating complex workflows and processes, and strive to perform as few manual tasks as possible. I help other IT professionals and organizations identify areas for automation in their daily work, and realize those solutions. 
 * * *
 
 ## links
@@ -45,7 +46,7 @@ My name is Dom Ruggeri. I'm a System Administrator specializing in PowerShell de
 
 ### Ellsworth Adhesives \| Germantown, WI<br><font color="#a873b6"><b>Systems Administrator</b></font><font color="#64618D"> | May, 2018 - Present</font>
 
-Ellsworth description
+System monitoring, 
 
 ### Independent Contractor - Upwork \| Menomonee Falls, WI<br><font color="#a873b6"><b>PowerShell Developer | Systems Administrator</b></font><font color="#64618D"> | March, 2019 - Present</font>
 
