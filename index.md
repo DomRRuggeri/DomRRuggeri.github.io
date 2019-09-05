@@ -56,20 +56,25 @@ Upwork Description
 Systems Description
 
 ### TAKKT America Holding, Milwaukee, WI<br><font color="#a873b6"><b>System Administrator</b></font><font color="#64618D"> | May 2015 – Feb 2016</font>
-Responsibilities included management of Microsoft and Linux servers and applications, IT
+
+#### Responsibilities 
+Management of Microsoft and Linux servers and applications, IT
 operations, desktop support, VPN user management, network administration tasks, and server
 administration. Administrated and supported a dynamic Virtual Desktop Infrastructure.
 Effectively planned projects, and implemented desktop support and IT operation advancements.
-Key Achievements
-Completed a company-wide domain migration, allowing a seamless transition for users
+
+#### Key Achievements
+*    Completed a company-wide domain migration, allowing a seamless transition for users
 while meeting deadlines and minimizing business impact.
-Composed PowerShell scripts to streamline Microsoft Exchange tasks which enabled all
+*    Composed PowerShell scripts to streamline Microsoft Exchange tasks which enabled all
 team members to effectively meet advanced email needs.
-Promptly handled and mitigated unexpected email, VPN, and application issues and
+*    Promptly handled and mitigated unexpected email, VPN, and application issues and
 outages.
 
 <font color="#a873b6"><b>Junior System Administrator</b></font><font color="#64618D"> | May 2013 – May 2015</font>
-Responsibilities included end-user support, hardware fixes, software installation, and PC
+
+#### Responsibilities 
+End-user support, hardware fixes, software installation, and PC
 deployment. Managed users and security, desktop support, virus and malware removal, asset
 tracking, user training, and documentation.
 
@@ -83,14 +88,17 @@ impact on the business.
 *    Performed extensive software compatibility checks between Windows XP and 7.
 
 <font color="#a873b6"><b>IT Service Desk</b></font><font color="#64618D"> |  March 2013 – May 2013</font>
- Responsibilities included desktop support, software configuration and deployment, and
+
+#### Responsibilities
+Desktop support, software configuration and deployment, and
 maintaining printing environment. Provided and assisted with shared file services for end-users.
-Key Achievements
-Established relations with various print vendors to implement a replacement of in-place
+
+#### Key Achievements
+*    Established relations with various print vendors to implement a replacement of in-place
 printing environment, cutting annual cost on toner, hardware, and maintenance.
-Evaluated, and presented available options for a print environment refresh to decision-
+*    Evaluated, and presented available options for a print environment refresh to decision-
 making management.
-Created software packages and configurations for remote deployment.
+*    Created software packages and configurations for remote deployment.
 
 * * *
 
