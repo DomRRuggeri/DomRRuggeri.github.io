@@ -114,6 +114,7 @@ img {vertical-align: middle;}
 /* Caption text */
 .text {
   color: #666;
+  background-color: rgba(100,97,141,.6);
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
@@ -125,6 +126,7 @@ img {vertical-align: middle;}
 /* Number text (1/3 etc) */
 .numbertext {
   color: #666;
+  background-color: rgba(100,97,141,.6);
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
