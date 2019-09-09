@@ -40,7 +40,7 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
   color: #32D97B;
   cursor: pointer;
   padding: 4px;
-  width: 100%;
+  width: 30%;
   border: none;
   text-align: center;
   outline: none;
