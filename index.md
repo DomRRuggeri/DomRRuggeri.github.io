@@ -91,6 +91,7 @@ img {vertical-align: middle;}
   padding: 16px;
   margin-top: -22px;
   color: #32D97B;
+  backgroud-color: #64618D;
   font-weight: bold;
   font-size: 18px;
   transition: 0.4s ease;
@@ -106,7 +107,7 @@ img {vertical-align: middle;}
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(100,97,141,0.8);
 }
 
 /* Caption text */
@@ -141,7 +142,11 @@ img {vertical-align: middle;}
   transition: background-color 0.4s ease;
 }
 
-.active, .dot:hover {
+.active {
+  background-color: #555;
+}
+
+.dot:hover {
   background-color: #32D97B;
 }
 
