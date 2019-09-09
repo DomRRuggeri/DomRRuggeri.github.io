@@ -113,12 +113,12 @@ img {vertical-align: middle;}
 
 /* Caption text */
 .text {
-  color: #32D97B;
+  color: green;
   background-color: rgba(100,97,141,.6);
   font-size: 15px;
-  padding: 8px 12px;
+  padding: 5px 5px;
   position: absolute;
-  bottom: 8px;
+  bottom: 0px;
   width: 100%;
   text-align: center;
 }
