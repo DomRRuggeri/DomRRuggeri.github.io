@@ -31,7 +31,6 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
 
 ### Service Desk Toolkit
 >A PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -140,21 +139,45 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 7</div>
   <img src="assets\images\ServiceDeskToolkit\Main.png" style="width:100%">
-  <div class="text">Caption Text</div>
+  <div class="text">Users and Groups</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
+  <div class="numbertext">2 / 7</div>
   <img src="assets\images\ServiceDeskToolkit\Computers.png" style="width:100%">
-  <div class="text">Caption Two</div>
+  <div class="text">Computer Tasks</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <div class="numbertext">3 / 7</div>
+  <img src="assets\images\ServiceDeskToolkit\Groups.png" style="width:100%">
+  <div class="text">Groups</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 7</div>
+  <img src="assets\images\ServiceDeskToolkit\Password.png" style="width:100%">
+  <div class="text">Password Reset</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 7</div>
+  <img src="assets\images\ServiceDeskToolkit\Defender.png" style="width:100%">
+  <div class="text">Defender Tasks</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 7</div>
+  <img src="assets\images\ServiceDeskToolkit\Print.png" style="width:100%">
+  <div class="text">Printer Management</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 7</div>
+  <img src="assets\images\ServiceDeskToolkit\Logoff.png" style="width:100%">
+  <div class="text">Remote User Logoff</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -166,7 +189,11 @@ img {vertical-align: middle;}
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>   
+  <span class="dot" onclick="currentSlide(6)"></span> 
+  <span class="dot" onclick="currentSlide(7)"></span>
 </div>
 
 <script>
