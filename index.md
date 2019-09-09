@@ -55,7 +55,6 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
   padding: 0 18px;
   display: none;
   overflow: hidden;
-  background-color: #f1f1f1;
 }
 </style>
 </head>
@@ -279,7 +278,7 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
-
+<br><br>
 </body>
 </html>
 
