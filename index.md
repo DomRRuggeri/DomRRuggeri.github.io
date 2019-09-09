@@ -36,13 +36,13 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .collapsible {
-  /*background-color: #666;*/
-  color: #64618D;
+  background-color: #64618D;
+  color: #32D97B;
   cursor: pointer;
-  padding: 9px;
+  padding: 4px;
   width: 100%;
   border: none;
-  text-align: left;
+  text-align: center;
   outline: none;
   font-size: 15px;
   font-family: monospace;
