@@ -45,7 +45,6 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
   text-align: center;
   outline: none;
   font-size: 15px;
-  font-family: monospace;
 }
 
 .active, .collapsible:hover {
@@ -69,7 +68,7 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
+body {margin:0}
 .mySlides {display: none}
 img {vertical-align: middle;}
 
