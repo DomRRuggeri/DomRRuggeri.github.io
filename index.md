@@ -47,6 +47,7 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
   font-size: 15px;
   font-family: monospace;
   float: right;
+
 }
 
 .active, .collapsible:hover {
@@ -89,10 +90,10 @@ img {vertical-align: middle;}
   width: auto;
   padding: 16px;
   margin-top: -22px;
-  color: green;
+  color: #32D97B;
   font-weight: bold;
   font-size: 18px;
-  transition: 0.6s ease;
+  transition: 0.4s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
 }
@@ -134,14 +135,14 @@ img {vertical-align: middle;}
   height: 15px;
   width: 15px;
   margin: 0 2px;
-  background-color: #bbb;
+  background-color: #64618D;
   border-radius: 50%;
   display: inline-block;
-  transition: background-color 0.6s ease;
+  transition: background-color 0.4s ease;
 }
 
 .active, .dot:hover {
-  background-color: #717171;
+  background-color: #32D97B;
 }
 
 /* Fading animation */
