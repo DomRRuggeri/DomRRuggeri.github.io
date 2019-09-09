@@ -143,7 +143,7 @@ img {vertical-align: middle;}
   transition: background-color 0.4s ease;
 }
 
-.active, .dot:hover {
+.active1, .dot:hover {
   background-color: #32D97B;
 }
 
@@ -255,10 +255,10 @@ function showSlides(n) {
       slides[i].style.display = "none";  
   }
   for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
+      dots[i].className = dots[i].className.replace(" active1", "");
   }
   slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
+  dots[slideIndex-1].className += " active1";
 }
 </script>
 
