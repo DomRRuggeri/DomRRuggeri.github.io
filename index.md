@@ -113,7 +113,7 @@ img {vertical-align: middle;}
 
 /* Caption text */
 .text {
-  color: green;
+  color: white;
   background-color: rgba(100,97,141,.6);
   font-size: 15px;
   padding: 5px 5px;
