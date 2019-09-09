@@ -113,7 +113,7 @@ img {vertical-align: middle;}
 
 /* Caption text */
 .text {
-  color: #666;
+  color: #32D97B;
   background-color: rgba(100,97,141,.6);
   font-size: 15px;
   padding: 8px 12px;
@@ -123,15 +123,6 @@ img {vertical-align: middle;}
   text-align: center;
 }
 
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #666;
-  background-color: rgba(100,97,141,.6);
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
 
 /* The dots/bullets/indicators */
 .dot {
@@ -178,43 +169,36 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 7</div>
   <img src="assets\images\ServiceDeskToolkit\Main.png" style="width:100%">
   <div class="text">Users and Groups</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 7</div>
   <img src="assets\images\ServiceDeskToolkit\Computers.png" style="width:100%">
   <div class="text">Computer Tasks</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 7</div>
   <img src="assets\images\ServiceDeskToolkit\Groups.png" style="width:100%">
   <div class="text">Groups</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 7</div>
   <img src="assets\images\ServiceDeskToolkit\Password.png" style="width:100%">
   <div class="text">Password Reset</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 7</div>
   <img src="assets\images\ServiceDeskToolkit\Defender.png" style="width:100%">
   <div class="text">Defender Tasks</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 7</div>
   <img src="assets\images\ServiceDeskToolkit\Print.png" style="width:100%">
   <div class="text">Printer Management</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">7 / 7</div>
   <img src="assets\images\ServiceDeskToolkit\Logoff.png" style="width:100%">
   <div class="text">Remote User Logoff</div>
 </div>
