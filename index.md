@@ -42,6 +42,7 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
   padding: 4px;
   width: 30%;
   border: none;
+  align: right;
   text-align: center;
   outline: none;
   font-size: 15px;
