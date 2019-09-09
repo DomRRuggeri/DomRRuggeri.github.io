@@ -50,7 +50,7 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
 
 }
 
-.active, .collapsible:hover {
+.collapsible:hover {
   background-color: #555;
 }
 
@@ -58,6 +58,17 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
   padding: 0 18px;
   display: none;
   overflow: hidden;
+}
+.collapsible:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: white;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
 </style>
 </head>
