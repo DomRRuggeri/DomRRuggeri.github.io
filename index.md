@@ -30,7 +30,7 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
 ## recent projects
 
 ### Service Desk Toolkit
->A PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -282,6 +282,8 @@ for (i = 0; i < coll.length; i++) {
 <br><br>
 </body>
 </html>
+
+>A PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
 
 
 ### OpsCommands PowerShell Module
