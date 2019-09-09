@@ -37,7 +37,7 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
 <style>
 .collapsible {
   background-color: #666;
-  color: white;
+  color: #64618D;
   cursor: pointer;
   padding: 9px;
   width: 100%;
@@ -45,6 +45,7 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
   text-align: left;
   outline: none;
   font-size: 15px;
+  font-family: monospace;
 }
 
 .active, .collapsible:hover {
@@ -167,7 +168,7 @@ img {vertical-align: middle;}
 </style>
 </head>
 <body>
-
+<br>
 <div class="slideshow-container">
 
 <div class="mySlides fade">
