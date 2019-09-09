@@ -40,13 +40,16 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
   color: #32D97B;
   cursor: pointer;
   padding: 4px;
-  width: 30%;
-  border: none;
-  align: right;
+  width: 25%;
+  border-right: dashed;
+  border-right-color: #32D97B;
   text-align: center;
   outline: none;
   font-size: 15px;
   font-family: monospace;
+  position: absolute;
+  right: 10px;
+  top: -2px;
 }
 
 .active, .collapsible:hover {
