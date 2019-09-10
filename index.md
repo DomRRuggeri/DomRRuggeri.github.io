@@ -52,7 +52,6 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
   outline: none;
   font-size: 15px;
   font-family: monospace;
-  /*float: right;*/
 
 }
 
@@ -288,6 +287,13 @@ for (i = 0; i < coll.length; i++) {
 
 ### AD User Creation Tool
 >A PowerShell-driven GUI Application for specialized user creation in a Hybrid AD environment. The tool was custom made to accommodate an existing onboarding proccess. An API integration was used to gather onboarding user information and needed apps, functions for copy groups of users, assigning O365 licenses, and automatic ticket creation for tasks handled by other teams.
+<button class="collapsible">View Gallery</button>
+<div class="content">
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 
 * * *
 
