@@ -217,7 +217,7 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <img src="assets\images\UserCreator\365lic.png.png" style="width:100%">
+  <img src="assets\images\UserCreator\365lic.png" style="width:100%">
   <div class="text">AD User Creation - O365 Licence Window</div>
 </div>
 
