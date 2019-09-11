@@ -49,7 +49,7 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
   outline: none;
   font-size: 15px;
   font-family: monospace;
-  float: center;
+  float: inline-start;
 
 }
 
