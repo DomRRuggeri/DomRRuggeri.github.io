@@ -354,12 +354,12 @@ tracking, user training, and documentation.
 
 #### Key Achievements
 *    Planned, and implemented a company-wide desktop upgrade to Windows 7 for all
-company sites in North America.
+company sites in North America.<br><br>
 *    Created, tested, streamlined, and deployed OS images for ease of desktop
-management, resulting in quick turn-around time for desktop repairs.
+management, resulting in quick turn-around time for desktop repairs.<br><br>
 *    Scheduled with management for training of 200+ users on Windows 7, while mitigating
-impact on the business.
-*    Performed extensive software compatibility checks between Windows XP and 7.
+impact on the business.<br><br>
+*    Performed extensive software compatibility checks between Windows XP and 7.<br><br>
 
 <font color="#a873b6"><b>IT Service Desk</b></font><font color="#64618D"> |  March 2013 – May 2013</font>
 
@@ -368,10 +368,10 @@ maintaining printing environment. Provided and assisted with shared file service
 
 #### Key Achievements
 *    Established relations with various print vendors to implement a replacement of in-place
-printing environment, cutting annual cost on toner, hardware, and maintenance.
+printing environment, cutting annual cost on toner, hardware, and maintenance.<br><br>
 *    Evaluated, and presented available options for a print environment refresh to decision-
-making management.
-*    Created software packages and configurations for remote deployment.
+making management.<br><br>
+*    Created software packages and configurations for remote deployment.<br><br>
 
 * * *
 
