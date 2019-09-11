@@ -315,13 +315,19 @@ for (i = 0; i < coll.length; i++) {
 
 ## professional experience
 
+### Independent Contractor - Upwork \| Menomonee Falls, WI<br><font color="#a873b6"><b>PowerShell Developer | Systems Administrator</b></font><font color="#64618D"> | March, 2019 - Present</font>
+
+Freelance PowerShell Developer and Systems Administrator. Completed 30+ projects with over 20 different clients and have maintained a 98% job success rate. Practiced CI/CD pipelines for PowerShell Module development and version control.
+
+#### Key Achievements
+
+*    Lead Developer for enterprise-level PowerShell module used for converting Roaming Profiles to FSLogix Profile Containers. The module handled the discovery, transfer, validation, and configuration for Roaming and UPD profiles to an FSLogix environment.
+*    Created a PowerShell-driven GUI Application for gathering Office365 Audit Logs. The final product accumulated audit information for specified users, services, and timeframes, and exported results to formatted Excel spreadsheets.
+
+
 ### Ellsworth Adhesives \| Germantown, WI<br><font color="#a873b6"><b>Systems Administrator</b></font><font color="#64618D"> | May, 2018 - Present</font>
 
 System monitoring, 
-
-### Independent Contractor - Upwork \| Menomonee Falls, WI<br><font color="#a873b6"><b>PowerShell Developer | Systems Administrator</b></font><font color="#64618D"> | March, 2019 - Present</font>
-
-Upwork Description
 
 ### Systems Incorporated \| Germantown, WI<br><font color="#a873b6"><b>IT Systems Specialist</b></font><font color="#64618D"> | February 2017 - May, 2018</font>
 
