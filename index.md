@@ -34,7 +34,6 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
 * * *
 
 ## recent projects
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
