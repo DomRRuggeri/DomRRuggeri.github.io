@@ -321,8 +321,8 @@ Freelance PowerShell Developer and Systems Administrator. Completed 30+ projects
 
 #### Key Achievements
 
-*    Lead Developer for enterprise-level PowerShell module used for converting Roaming Profiles to FSLogix Profile Containers. The module handled the discovery, transfer, validation, and configuration for Roaming and UPD profiles to an FSLogix environment.
-*    Created a PowerShell-driven GUI Application for gathering Office365 Audit Logs. The final product accumulated audit information for specified users, services, and timeframes, and exported results to formatted Excel spreadsheets.
+*    Lead Developer for enterprise-level PowerShell module used for converting Roaming Profiles to FSLogix Profile Containers. The module handled the discovery, transfer, validation, and configuration for Roaming and UPD profiles to an FSLogix environment.<br>
+*    Created a PowerShell-driven GUI Application for gathering Office365 Audit Logs. The final product accumulated audit information for specified users, services, and timeframes, and exported results to formatted Excel spreadsheets.<br>
 
 
 ### Ellsworth Adhesives \| Germantown, WI<br><font color="#a873b6"><b>Systems Administrator</b></font><font color="#64618D"> | May, 2018 - Present</font>
@@ -335,18 +335,16 @@ Systems Description
 
 ### TAKKT America Holding, Milwaukee, WI<br><font color="#a873b6"><b>System Administrator</b></font><font color="#64618D"> | May 2015 – Feb 2016</font>
 
-Management of Microsoft and Linux servers and applications, IT
-operations, desktop support, VPN user management, network administration tasks, and server
-administration. Administrated and supported a dynamic Virtual Desktop Infrastructure.
+Management of Microsoft and Linux servers and applications, IT operations, desktop support, VPN user management, network administration tasks, and server administration. Administrated and supported a dynamic Virtual Desktop Infrastructure.
 Effectively planned projects, and implemented desktop support and IT operation advancements.
 
 #### Key Achievements
 *    Completed a company-wide domain migration, allowing a seamless transition for users
-while meeting deadlines and minimizing business impact.
+while meeting deadlines and minimizing business impact.<br>
 *    Composed PowerShell scripts to streamline Microsoft Exchange tasks which enabled all
-team members to effectively meet advanced email needs.
+team members to effectively meet advanced email needs.<br>
 *    Promptly handled and mitigated unexpected email, VPN, and application issues and
-outages.
+outages.<br>
 
 <font color="#a873b6"><b>Junior System Administrator</b></font><font color="#64618D"> | May 2013 – May 2015</font>
 
