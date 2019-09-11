@@ -35,8 +35,6 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
 
 ## recent projects
 
-### Service Desk Toolkit
->A PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -69,7 +67,7 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
 </head>
 <body>
 
-<button class="collapsible">View Gallery</button>
+<button class="collapsible">View Image Gallery</button>
 <div class="content">
 
 <html>
@@ -175,37 +173,57 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <img src="assets\images\ServiceDeskToolkit\Main.png" style="width:100%">
-  <div class="text">Users and Groups</div>
+  <div class="text">Service Desk Toolkit - Users and Groups</div>
 </div>
 
 <div class="mySlides fade">
   <img src="assets\images\ServiceDeskToolkit\Computers.png" style="width:100%">
-  <div class="text">Computer Tasks</div>
+  <div class="text">Service Desk Toolkit - Computer Tasks</div>
 </div>
 
 <div class="mySlides fade">
   <img src="assets\images\ServiceDeskToolkit\Groups.png" style="width:100%">
-  <div class="text">Groups</div>
+  <div class="text">Service Desk Toolkit - Groups</div>
 </div>
 
 <div class="mySlides fade">
   <img src="assets\images\ServiceDeskToolkit\Password.png" style="width:100%">
-  <div class="text">Password Reset</div>
+  <div class="text">Service Desk Toolkit - Password Reset</div>
 </div>
 
 <div class="mySlides fade">
   <img src="assets\images\ServiceDeskToolkit\Defender.png" style="width:100%">
-  <div class="text">Defender Tasks</div>
+  <div class="text">Service Desk Toolkit - Defender Tasks</div>
 </div>
 
 <div class="mySlides fade">
   <img src="assets\images\ServiceDeskToolkit\Print.png" style="width:100%">
-  <div class="text">Printer Management</div>
+  <div class="text">Service Desk Toolkit - Printer Management</div>
 </div>
 
 <div class="mySlides fade">
   <img src="assets\images\ServiceDeskToolkit\Logoff.png" style="width:100%">
-  <div class="text">Remote User Logoff</div>
+  <div class="text">Service Desk Toolkit - Remote User Logoff</div>
+</div>
+
+<div class="mySlides fade">
+  <img src="assets\images\UserCreator\Main.png" style="width:100%">
+  <div class="text">AD User Creation - Main Screen</div>
+</div>
+
+<div class="mySlides fade">
+  <img src="assets\images\UserCreator\Groups.png" style="width:100%">
+  <div class="text">AD User Creation - Groups Window</div>
+</div>
+
+<div class="mySlides fade">
+  <img src="assets\images\UserCreator\365lic.png.png" style="width:100%">
+  <div class="text">AD User Creation - O365 Licence Window</div>
+</div>
+
+<div class="mySlides fade">
+  <img src="assets\images\UserCreator\OU.png" style="width:100%">
+  <div class="text">AD User Creation - OU Selection</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -222,6 +240,10 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(5)"></span>   
   <span class="dot" onclick="currentSlide(6)"></span> 
   <span class="dot" onclick="currentSlide(7)"></span>
+  <span class="dot" onclick="currentSlide(8)"></span>
+  <span class="dot" onclick="currentSlide(9)"></span>   
+  <span class="dot" onclick="currentSlide(10)"></span> 
+  <span class="dot" onclick="currentSlide(11)"></span>
 </div>
 
 <script>
@@ -278,6 +300,9 @@ for (i = 0; i < coll.length; i++) {
 </body>
 </html>
 
+
+### Service Desk Toolkit
+>A PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
 
 ### OpsCommands PowerShell Module
 >A PowerShell Module used by Infrastructure and Operations for gathering information, and environment management quickly. Tools include AD user unlocks, password resets, PC discovery, Microsoft Monitoring Agent set up, Bulk O365 group management,VM snapshot scheduling, Exchange mailbox permissions, and more.
