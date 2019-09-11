@@ -318,7 +318,7 @@ for (i = 0; i < coll.length; i++) {
 
 ### Independent Contractor \| Upwork<br><font color="#a873b6"><b>PowerShell Developer</b></font><font color="#64618D"> | March, 2019 - Present</font>
 
-Freelance PowerShell Developer and Systems Administrator. Completed 30+ projects with over 20 different clients and have maintained a 98% job success rate. Practiced CI/CD pipelines for PowerShell Module development and version control.
+Freelance PowerShell Developer and Systems Administrator. Completed 30+ projects with over 20 different clients and have maintained a 98% job success rate. Practiced CI/CD pipelines for PowerShell Module development and version control. Jobs included modifying existing scripts, creating frontend user interfaces for PowerShell scripts, and developing new PowerShell solutions for automating administration.
 
 #### Key Achievements
 
