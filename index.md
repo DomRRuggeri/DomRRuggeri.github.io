@@ -332,7 +332,8 @@ Automated server deployment, user creation, and PC management tasks. Monitored a
 #### Key Achievements
 
 *    Created a PowerShell toolkit for Tier 1-2 Service Desk technicians. Features included AD user/group information and management, SCCM software deployments, computer management, remote desktop management, NTFS permissions, print server management, and Windows Defender tasks.<br><br>
-*    Developed a PowerShell-driven GUI Application for user creation in a Hybrid AD environment. Implemented an API integration with the ticketing system to gather onboarding user information and needed applications. Included functions for copying groups of users, assigning Office365 licenses, and automatic ticket creation for tasks overseen by other teams.<br><br> 
+*    Developed a PowerShell-driven GUI Application for user creation in a Hybrid AD environment. Implemented an API integration with the ticketing system to gather onboarding user information and needed applications. Included functions for copying groups of users, assigning Office365 licenses, and automatic ticket creation for tasks overseen by other teams.<br><br>
+*    
 
 ### Systems Incorporated \| Germantown, WI<br><font color="#a873b6"><b>IT Systems Specialist</b></font><font color="#64618D"> | February 2017 - May, 2018</font>
 
@@ -342,6 +343,9 @@ Sole IT specialist for all day-to-day IT needs in a manufacturing company. Inclu
 
 *    Researched and implemented a new Service Desk solution for IT and Maintenance departments. Migrated data from existing Service Desk, configured email automation, and provided a seamless transition for end users.<br><br>
 *    Implemented Microsoft WDS and MDT imaging process to improve Help Desk efficiency, and to assist in a Windows 10 migration. Created configurations for automated software installs by department, utilized Group Policy, and maintained services to deliver up to date software.<br><br>
+*    Lead and completed a project to implement Digital Signage at two corporate offices. Tested various software and platforms, established and configured physical devices for
+implementation, purchased all needed equipment, and coordinated with various departments for proper delegation.<br><br>
+
 
 ### Independent Contractor, Milwaukee, WI<br><font color="#a873b6"><b>System Administrator</b></font><font color="#64618D"> | April 2016 – January 2017</font>
 
@@ -350,18 +354,16 @@ Met with small businesses and assessed current and future IT needs. Provided sol
 #### Key Achievements
 
 *    Upgraded warehouse desktops, assessed usage and hardware needs for 15 PCs, ordered new desktops, scheduled installation of each with manager and staff to minimize downtime. Trained users for Windows 7.<br><br>
+*    Independent motorcycle repair shop- replaced hard drives in failing PC’s, migrated company data to centralized location and made available to needed desktops. Networked IP camera solution, and improved performance of existing PCs.<br><br>
 
 ### TAKKT America Holding, Milwaukee, WI<br><font color="#a873b6"><b>System Administrator</b></font><font color="#64618D"> | May 2015 – Feb 2016</font>
 
 Managed Microsoft and Linux servers and applications, provided desktop support, VPN user management, and network and server administration. Implemented and supported Virtual Desktop Infrastructure. Effectively planned projects, and implemented desktop support and IT operation advancements.
 
 #### Key Achievements
-*    Completed a company-wide domain migration, allowing a seamless transition for users
-while meeting deadlines and minimizing business impact.<br><br>
-*    Composed PowerShell scripts to streamline Microsoft Exchange tasks which enabled all
-team members to effectively meet advanced email needs.<br><br>
-*    Promptly handled and mitigated unexpected email, VPN, and application issues and
-outages.<br><br>
+*    Completed a company-wide domain migration, allowing a seamless transition for users while meeting deadlines and minimizing business impact.<br><br>
+*    Composed PowerShell scripts to streamline Microsoft Exchange tasks which enabled all team members to effectively meet advanced email needs.<br><br>
+*    Promptly handled and mitigated unexpected email, VPN, and application issues and outages.<br><br>
 
 <font color="#a873b6"><b>Junior System Administrator</b></font><font color="#64618D"> | May 2013 – May 2015</font>
 
@@ -370,12 +372,9 @@ deployment. Managed users and security, desktop support, virus and malware remov
 tracking, user training, and documentation.
 
 #### Key Achievements
-*    Planned, and implemented a company-wide desktop upgrade to Windows 7 for all
-company sites in North America.<br><br>
-*    Created, tested, streamlined, and deployed OS images for ease of desktop
-management, resulting in quick turn-around time for desktop repairs.<br><br>
-*    Scheduled with management for training of 200+ users on Windows 7, while mitigating
-impact on the business.<br><br>
+*    Planned, and implemented a company-wide desktop upgrade to Windows 7 for all company sites in North America.<br><br>
+*    Created, tested, streamlined, and deployed OS images for ease of desktop management, resulting in quick turn-around time for desktop repairs.<br><br>
+*    Scheduled with management for training of 200+ users on Windows 7, while mitigating impact on the business.<br><br>
 *    Performed extensive software compatibility checks between Windows XP and 7.<br><br>
 
 <font color="#a873b6"><b>IT Service Desk</b></font><font color="#64618D"> |  March 2013 – May 2013</font>
@@ -384,10 +383,8 @@ Desktop support, software configuration and deployment, and
 maintaining printing environment. Provided and assisted with shared file services for end-users.
 
 #### Key Achievements
-*    Established relations with various print vendors to implement a replacement of in-place
-printing environment, cutting annual cost on toner, hardware, and maintenance.<br><br>
-*    Evaluated, and presented available options for a print environment refresh to decision-
-making management.<br><br>
+*    Established relations with various print vendors to implement a replacement of in-place printing environment, cutting annual cost on toner, hardware, and maintenance.<br><br>
+*    Evaluated, and presented available options for a print environment refresh to decision-making management.<br><br>
 *    Created software packages and configurations for remote deployment.<br><br>
 
 * * *
