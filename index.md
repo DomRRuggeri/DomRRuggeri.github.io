@@ -35,6 +35,18 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
 
 ## recent projects 
 
+### Service Desk Toolkit
+>A PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
+
+### OpsCommands PowerShell Module
+>A PowerShell Module used by Infrastructure and Operations for gathering information, and environment management quickly. Tools include AD user unlocks, password resets, PC discovery, Microsoft Monitoring Agent set up, Bulk O365 group management,VM snapshot scheduling, Exchange mailbox permissions, and more.
+
+### FSLogixMigration Module
+>Enterprise-level PowerShell module used by Microsoft for converting Roaming Profiles, and User Profile Disks to FSLogix Profile Containers. This module handled the discovery, transfer, verification, and configuration for Roaming and UPD profiles to an FSLogix environment.
+
+### AD User Creation Tool
+>A PowerShell-driven GUI Application for specialized user creation in a Hybrid AD environment. The tool was custom made to accommodate an existing onboarding proccess. An API integration was used to gather onboarding user information and needed apps, functions for copy groups of users, assigning O365 licenses, and automatic ticket creation for tasks handled by other teams.
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -298,19 +310,6 @@ for (i = 0; i < coll.length; i++) {
 <br><br>
 </body>
 </html>
-
-
-### Service Desk Toolkit
->A PowerShell-driven GUI Application for day-to-day tasks of Service Desk technicians. Features include AD user/group information and management, SCCM software deployments, computer management, Remote Desktop management, NTFS permissions, Print Server Management, and Windows Defender tasks.
-
-### OpsCommands PowerShell Module
->A PowerShell Module used by Infrastructure and Operations for gathering information, and environment management quickly. Tools include AD user unlocks, password resets, PC discovery, Microsoft Monitoring Agent set up, Bulk O365 group management,VM snapshot scheduling, Exchange mailbox permissions, and more.
-
-### FSLogixMigration Module
->Enterprise-level PowerShell module used by Microsoft for converting Roaming Profiles, and User Profile Disks to FSLogix Profile Containers. This module handled the discovery, transfer, verification, and configuration for Roaming and UPD profiles to an FSLogix environment.
-
-### AD User Creation Tool
->A PowerShell-driven GUI Application for specialized user creation in a Hybrid AD environment. The tool was custom made to accommodate an existing onboarding proccess. An API integration was used to gather onboarding user information and needed apps, functions for copy groups of users, assigning O365 licenses, and automatic ticket creation for tasks handled by other teams.
 
 * * *
 
