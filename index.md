@@ -42,7 +42,7 @@ I've worked as an IT professional for 7+ years, and have had an interest in tech
 >A PowerShell Module used by Infrastructure and Operations for gathering information, and environment management quickly. Tools include AD user unlocks, password resets, PC discovery, Microsoft Monitoring Agent set up, Bulk O365 group management,VM snapshot scheduling, Exchange mailbox permissions, and more.
 
 ### FSLogixMigration Module
->Enterprise-level PowerShell module used by Microsoft for converting Roaming Profiles, and User Profile Disks to FSLogix Profile Containers. This module handled the discovery, transfer, verification, and configuration for Roaming and UPD profiles to an FSLogix environment.
+>Enterprise-level PowerShell module for converting Roaming Profiles, and User Profile Disks to FSLogix Profile Containers. This module handled the discovery, transfer, verification, and configuration for Roaming and UPD profiles to an FSLogix environment.
 
 ### AD User Creation Tool
 >A PowerShell-driven GUI Application for specialized user creation in a Hybrid AD environment. The tool was custom made to accommodate an existing onboarding proccess. An API integration was used to gather onboarding user information and needed apps, functions for copy groups of users, assigning O365 licenses, and automatic ticket creation for tasks handled by other teams.
@@ -333,7 +333,7 @@ Automated server deployment, user creation, and PC management tasks. Monitored a
 
 *    Created a PowerShell toolkit for Tier 1-2 Service Desk technicians. Features included AD user/group information and management, SCCM software deployments, computer management, remote desktop management, NTFS permissions, print server management, and Windows Defender tasks.<br><br>
 *    Developed a PowerShell-driven GUI Application for user creation in a Hybrid AD environment. Implemented an API integration with the ticketing system to gather onboarding user information and needed applications. Included functions for copying groups of users, assigning Office365 licenses, and automatic ticket creation for tasks overseen by other teams.<br><br>
-*    
+*    Created A PowerShell Module used by Infrastructure and Operations for gathering information, and environment management quickly. Tools include AD user unlocks, password resets, PC discovery, Microsoft Monitoring Agent set up, Bulk O365 group management,VM snapshot scheduling, Exchange mailbox permissions, and more.
 
 ### Systems Incorporated \| Germantown, WI<br><font color="#a873b6"><b>IT Systems Specialist</b></font><font color="#64618D"> | February 2017 - May, 2018</font>
 
