@@ -328,16 +328,33 @@ Freelance PowerShell Developer and Systems Administrator. Completed 30+ projects
 
 ### Ellsworth Adhesives \| Germantown, WI<br><font color="#a873b6"><b>Systems Administrator</b></font><font color="#64618D"> | May, 2018 - Present</font>
 
-System monitoring, 
+Automated server deployment, user creation, and PC management tasks. Monitored and supported an environment of 200+ servers, and 1000+ end users globally. Collaborated with business unit leaders to identify and deliver areas for IT improvement. Streamlined existing IT processes. Worked regularly with VMware, Office365, Active Directory, and Cisco Meraki management tasks.
+
+#### Key Achievements
+
+*    Created a PowerShell toolkit for Tier 1-2 Service Desk technicians. Features included AD user/group information and management, SCCM software deployments, computer management, remote desktop management, NTFS permissions, print server management, and Windows Defender tasks.<br><br>
+*    Developed a PowerShell-driven GUI Application for user creation in a Hybrid AD environment. Implemented an API integration with the ticketing system to gather onboarding user information and needed applications. Included functions for copying groups of users, assigning Office365 licenses, and automatic ticket creation for tasks overseen by other teams.<br><br> 
 
 ### Systems Incorporated \| Germantown, WI<br><font color="#a873b6"><b>IT Systems Specialist</b></font><font color="#64618D"> | February 2017 - May, 2018</font>
 
-Systems Description
+Sole IT specialist for all day-to-day IT needs in a manufacturing company. Included consulting with users, and determining hardware and software needs. Managed VMware infrastructure, backups, Active Directory, Group Policy, and On-Premise Exchange services.
+
+#### Key Achievements
+
+*    Researched and implemented a new Service Desk solution for IT and Maintenance departments. Migrated data from existing Service Desk, configured email automation, and provided a seamless transition for end users.<br><br>
+*    Implemented Microsoft WDS and MDT imaging process to improve Help Desk efficiency, and to assist in a Windows 10 migration. Created configurations for automated software installs by department, utilized Group Policy, and maintained services to deliver up to date software.<br><br>
+
+### Independent Contractor, Milwaukee, WI<br><font color="#a873b6"><b>System Administrator</b></font><font color="#64618D"> | April 2016 – January 2017</font>
+
+Met with small businesses and assessed current and future IT needs. Provided solutions, pricing, and implementation. Conducted desktop hardware upgrades, Operating System upgrades and migrations, printer consolidation, hard drive replacements, and met various customer needs.
+
+#### Key Achievements
+
+*    Upgraded warehouse desktops, assessed usage and hardware needs for 15 PCs, ordered new desktops, scheduled installation of each with manager and staff to minimize downtime. Trained users for Windows 7.<br><br>
 
 ### TAKKT America Holding, Milwaukee, WI<br><font color="#a873b6"><b>System Administrator</b></font><font color="#64618D"> | May 2015 – Feb 2016</font>
 
-Management of Microsoft and Linux servers and applications, IT operations, desktop support, VPN user management, network administration tasks, and server administration. Administrated and supported a dynamic Virtual Desktop Infrastructure.
-Effectively planned projects, and implemented desktop support and IT operation advancements.
+Managed Microsoft and Linux servers and applications, provided desktop support, VPN user management, and network and server administration. Implemented and supported Virtual Desktop Infrastructure. Effectively planned projects, and implemented desktop support and IT operation advancements.
 
 #### Key Achievements
 *    Completed a company-wide domain migration, allowing a seamless transition for users
