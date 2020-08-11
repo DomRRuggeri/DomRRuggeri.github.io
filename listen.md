@@ -7,7 +7,7 @@ layout: default
 
 <html>
 <body>
-<audio controls="controls" src="https://162.244.80.31:9372/;&type=mp3"></audio>
+<audio controls="controls" src='http://thesongster.serverroom.us:9372/;&type=mp3'></audio>
 </body>
 </html>
 
