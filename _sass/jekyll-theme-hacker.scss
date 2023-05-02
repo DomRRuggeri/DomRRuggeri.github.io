@@ -6,7 +6,15 @@ $body-foreground: $gallery !default;
 $header: $bouquet !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
-@font-face                                                                   
+
+body {
+  margin: 0;
+  padding: 0;
+  background: $body-background url("../images/bkg.png") 0 0;
+  color: $body-foreground;
+  font-size: 16px;
+  line-height: 1.2;
+  @font-face                                                                   
 {                                                                            
     font-family: 'Wumpus Mono Pro Web';                                      
     font-style: normal;                                                      
@@ -16,14 +24,6 @@ $blockquote-border: $dove-grey !default;
          url( 'https://lpx.org.uk/WumpusMonoProVF.woff' )  format( 'woff' ), 
          url( 'https://lpx.org.uk/WumpusMonoProVF.ttf' )   format( 'ttf' );  
 }
-
-body {
-  margin: 0;
-  padding: 0;
-  background: $body-background url("../images/bkg.png") 0 0;
-  color: $body-foreground;
-  font-size: 16px;
-  line-height: 1.2;
   font-family: "Wumpus Mono Pro Web";
   //font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
