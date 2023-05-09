@@ -376,7 +376,7 @@ Managed Microsoft and Linux servers and applications, provided desktop support, 
 *    Composed PowerShell scripts to streamline Microsoft Exchange tasks which enabled all team members to effectively meet advanced email needs.<br><br>
 *    Promptly handled and mitigated unexpected email, VPN, and application issues and outages.<br><br>
 
-<font color="#a873b6",size="17"><b>Junior Systems Administrator</b></font><font color="#64618D"> | May 2013 – May 2015</font>
+<font color="#a873b6" size="17"><b>Junior Systems Administrator</b></font><font color="#64618D"> | May 2013 – May 2015</font>
 
 End-user support, hardware fixes, software installation, and PC
 deployment. Managed users and security, desktop support, virus and malware removal, asset
