@@ -1,15 +1,3 @@
-
-@font-face                                                                   
-{                                                                            
-    font-family: 'Wumpus Mono Pro Web';                                      
-    font-style: normal;                                                      
-    font-stretch: normal;                                                    
-    font-weight: 300;                                                        
-    src: url( 'https://lpx.org.uk/WumpusMonoProVF.woff2' ) format( 'woff2' ),
-         url( 'https://lpx.org.uk/WumpusMonoProVF.woff' )  format( 'woff' ), 
-         url( 'https://lpx.org.uk/WumpusMonoProVF.ttf' )   format( 'ttf' );  
-}
-
 @import "rouge-base16-dark";
 @import "default_colors";
 
@@ -26,7 +14,7 @@ body {
   color: $body-foreground;
   font-size: 16px;
   line-height: 1.2;
-  font-family: "Wumpus Mono Pro Web";
+  font-family: "Consolas";
   font-weight: 300;
   //font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
@@ -72,7 +60,7 @@ header h1 {
   line-height: 1.2;
   margin: 0 0 0 0px;
   font-weight: bold;
-  font-family: "Wumpus Mono Pro Web";
+  font-family: "Consolas";
   color: $conifer;//$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -113,7 +101,7 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: "Wumpus Mono Pro Web";
+  font-family: "Consolas";
   color: $header;
   letter-spacing: -0.03em;
   text-shadow: 0 0px 0px rgba(0, 0, 0, 0.0),
