@@ -70,15 +70,6 @@ I've worked as an IT professional for 10 years, and have had an interest in tech
 
 }
 
-.center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-}
-
 .active, .collapsible:hover {
   background-color: #555;
 }
@@ -93,7 +84,6 @@ I've worked as an IT professional for 10 years, and have had an interest in tech
 </head>
 <body>
 
-<div class="center">
 <button class="collapsible">View Image Gallery</button>
 <div class="content">
 
@@ -194,7 +184,6 @@ img {vertical-align: middle;}
 }
 </style>
 </head>
-</div>
 <body>
 <div class="slideshow-container">
 
