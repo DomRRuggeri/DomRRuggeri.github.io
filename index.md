@@ -52,16 +52,6 @@ I've worked as an IT professional for 10 years, and have had an interest in tech
 <html>
 <head>
 <style type="text/css">
-  @font-face
-  {
-    font-family: 'Wumpus Mono Pro Web', monospace;                                     
-    font-style: normal;
-    font-stretch: normal;
-    src: url( 'https://lpx.org.uk/WumpusMonoProVF.woff2' ) format( 'woff2' ),
-    url( 'https://lpx.org.uk/WumpusMonoProVF.woff' )  format( 'woff' ),
-    url( 'https://lpx.org.uk/WumpusMonoProVF.ttf' )   format( 'ttf' );
-  }
-  body { font-family: 'Wumpus Mono Pro Web', monospace; }
 </style>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
