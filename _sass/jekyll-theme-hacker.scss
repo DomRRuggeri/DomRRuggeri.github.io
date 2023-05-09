@@ -15,7 +15,7 @@ body {
   font-size: 16px;
   line-height: 1.2;
   font-family: "Wumpus Mono Pro Web";
-  font-weight: 200;
+  font-weight: 300;
   //font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
@@ -59,7 +59,7 @@ header h1 {
   font-size: 32px;
   line-height: 1.2;
   margin: 0 0 0 0px;
-  font-weight: bold;
+  font-weight: 300;
   font-family: "Wumpus Mono Pro Web";
   color: $conifer;//$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
@@ -78,7 +78,7 @@ header h1 {
 
 header h2 {
   font-size: 26px;
-  font-weight: 200;
+  font-weight: 300;
   color: #666;
 }
 
