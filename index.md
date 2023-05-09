@@ -54,7 +54,7 @@ I've worked as an IT professional for 10 years, and have had an interest in tech
 <style type="text/css">
   @font-face
   {
-    font-family: 'Wumpus Mono Pro Web';                                      
+    font-family: 'Wumpus Mono Pro Web', monospace;                                     
     font-style: normal;
     font-stretch: normal;
     src: url( 'https://lpx.org.uk/WumpusMonoProVF.woff2' ) format( 'woff2' ),
