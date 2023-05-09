@@ -66,7 +66,7 @@ I've worked as an IT professional for 10 years, and have had an interest in tech
   text-align: center;
   outline: none;
   font-size: 15px;
-  font-family: "Wumpus Mono Pro Web";
+  font-family: "Consolas", monospace;
 
 }
 
