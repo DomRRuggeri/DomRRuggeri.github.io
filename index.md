@@ -20,7 +20,7 @@ I've worked as an IT professional for 10 years, and have had an interest in tech
 ## links
 
 *    [LinkedIn](https://linkedin.com/in/domruggeri) - Feel free to reach out on LinkedIn. <br>
-*    [PowerShell Tools](https://powershelltools.com) - I run a PowerShell blog, writing tools and tutorials. <br>
+*    [PowerShell Tools](powershelltools.com) - I run a PowerShell blog, writing tools and tutorials. <br>
 *    [Upwork](https://www.upwork.com/o/profiles/users/_~01b0dddb831cc7bb38/) - I freelance as a PowerShell developer, you can check out my profile here. <br>
 *    [GitHub](https://github.com/DomRRuggeri) - Personal GitHub Repository. <br>
 
