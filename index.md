@@ -20,7 +20,7 @@ I've worked as an IT professional for 10 years, and have had an interest in tech
 ## links
 
 *    [LinkedIn](https://linkedin.com/in/domruggeri) - Feel free to reach out on LinkedIn. <br>
-*    [PowerShell Tools](https://www.domruggeri.com) - I run a PowerShell blog, writing tools and tutorials. <br>
+*    [PowerShell Tools](https://powershelltools.com) - I run a PowerShell blog, writing tools and tutorials. <br>
 *    [Upwork](https://www.upwork.com/o/profiles/users/_~01b0dddb831cc7bb38/) - I freelance as a PowerShell developer, you can check out my profile here. <br>
 *    [GitHub](https://github.com/DomRRuggeri) - Personal GitHub Repository. <br>
 
@@ -320,7 +320,7 @@ for (i = 0; i < coll.length; i++) {
 
 ## professional experience
 
-### Ellsworth Adhesives \| Germantown, WI<br><font color="#a873b6"><b>Systems Administrator</b></font><font color="#64618D"> | May, 2018 - Present</font>
+### Ellsworth Adhesives \| Germantown, WI<br><font color="#a873b6"><b>Systems Administrator</b></font><font color="#64618D"> | May, 2018 - Feb 2025</font>
 
 Automated server deployment, user creation, and PC management tasks. Monitored and supported an environment of 200+ servers, and 1000+ end users globally. Collaborated with business unit leaders to identify and deliver areas for IT improvement. Streamlined existing IT processes. Worked regularly with VMware, Office365, Active Directory, and Cisco Meraki management tasks.
 
