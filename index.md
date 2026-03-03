@@ -320,7 +320,7 @@ for (i = 0; i < coll.length; i++) {
 
 ## professional experience
 
-### Ellsworth Adhesives \| Germantown, WI<br><font color="#a873b6"><b>Systems Administrator</b></font><font color="#64618D"> | May, 2018 - Feb 2025</font>
+### Ellsworth Adhesives \| Germantown, WI<br><font color="#a873b6"><b>Systems Administrator</b></font><font color="#64618D"> | May, 2018 - February, 2025</font>
 
 Automated server deployment, user creation, and PC management tasks. Monitored and supported an environment of 200+ servers, and 1000+ end users globally. Collaborated with business unit leaders to identify and deliver areas for IT improvement. Streamlined existing IT processes. Worked regularly with VMware, Office365, Active Directory, and Cisco Meraki management tasks.
 
